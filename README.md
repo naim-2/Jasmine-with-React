@@ -1,1 +1,1 @@
-# coding-project-template
+# Testing React with Jasmine
